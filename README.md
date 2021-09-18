@@ -9,9 +9,8 @@
 
 ### App Walkthough GIF
 
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+![flixteru2sub](https://user-images.githubusercontent.com/80604127/133870723-f42f2ea3-1848-42f9-9afe-bc2b1becafbb.gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes:
 Challenges description: It could be tricky when creating the API key from Google Cloud because I have not had any experience with this cloud platform. Moreover, it easily causes the exception of the json.
